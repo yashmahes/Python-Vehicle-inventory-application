@@ -1,0 +1,15 @@
+
+Vehicle is
+Model - m1
+Make - mars
+Color - red
+Year - 1999
+Mileage - 55
+
+Vehicle is
+Model - z1
+Make - zenn
+Color - blue
+Year - 2001
+Mileage - 12
+end
