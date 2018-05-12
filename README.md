@@ -1,2 +1,1 @@
-# Python_SuperMarket_Mall_ConsoleApp
-Python_SuperMarket_Mall_ConsoleApp
+Python_Vehicle_inventory application
